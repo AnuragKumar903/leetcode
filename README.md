@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnuragKumar903/leetcode/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AnuragKumar903/leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AnuragKumar903/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
