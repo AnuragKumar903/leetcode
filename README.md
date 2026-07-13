@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/AnuragKumar903/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnuragKumar903/leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/AnuragKumar903/leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -23,5 +24,10 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AnuragKumar903/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/AnuragKumar903/leetcode/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/AnuragKumar903/leetcode/tree/master/1009-complement-of-base-10-integer) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AnuragKumar903/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
