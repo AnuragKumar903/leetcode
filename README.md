@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnuragKumar903/leetcode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/AnuragKumar903/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/AnuragKumar903/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AnuragKumar903/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/AnuragKumar903/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -28,6 +29,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AnuragKumar903/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AnuragKumar903/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnuragKumar903/leetcode/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/AnuragKumar903/leetcode/tree/master/1009-complement-of-base-10-integer) |
