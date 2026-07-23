@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnuragKumar903/leetcode/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/AnuragKumar903/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AnuragKumar903/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/AnuragKumar903/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/AnuragKumar903/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/AnuragKumar903/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AnuragKumar903/leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
