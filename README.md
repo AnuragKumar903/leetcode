@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnuragKumar903/leetcode/tree/master/0001-two-sum) |
+| [1920-build-array-from-permutation](https://github.com/AnuragKumar903/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnuragKumar903/leetcode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/AnuragKumar903/leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
