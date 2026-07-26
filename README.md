@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnuragKumar903/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/AnuragKumar903/leetcode/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/AnuragKumar903/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/AnuragKumar903/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -57,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnuragKumar903/leetcode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/AnuragKumar903/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AnuragKumar903/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnuragKumar903/leetcode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuragKumar903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnuragKumar903/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
