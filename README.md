@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuragKumar903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/AnuragKumar903/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1207-unique-number-of-occurrences](https://github.com/AnuragKumar903/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/AnuragKumar903/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/AnuragKumar903/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AnuragKumar903/leetcode/tree/master/1929-concatenation-of-array) |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/AnuragKumar903/leetcode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuragKumar903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/AnuragKumar903/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
