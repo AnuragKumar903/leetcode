@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/AnuragKumar903/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/AnuragKumar903/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AnuragKumar903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/AnuragKumar903/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/AnuragKumar903/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/AnuragKumar903/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AnuragKumar903/leetcode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AnuragKumar903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [0283-move-zeroes](https://github.com/AnuragKumar903/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AnuragKumar903/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AnuragKumar903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -62,8 +65,10 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AnuragKumar903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AnuragKumar903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
