@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/AnuragKumar903/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnuragKumar903/leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/AnuragKumar903/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/AnuragKumar903/leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
@@ -77,6 +78,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnuragKumar903/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnuragKumar903/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/AnuragKumar903/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuragKumar903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AnuragKumar903/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
