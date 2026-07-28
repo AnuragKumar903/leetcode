@@ -20,6 +20,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuragKumar903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnuragKumar903/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AnuragKumar903/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AnuragKumar903/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AnuragKumar903/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/AnuragKumar903/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/AnuragKumar903/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -74,6 +75,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnuragKumar903/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/AnuragKumar903/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnuragKumar903/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/AnuragKumar903/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
